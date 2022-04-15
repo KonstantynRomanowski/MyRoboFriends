@@ -1,2 +1,2 @@
-# React_project-RoboFriends-
+# MyRoboFriends project
 A new project created using React.
